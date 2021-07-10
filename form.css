@@ -1,0 +1,22 @@
+
+#btn1{
+    background-color: rgba(255, 0, 0, 0.637);
+}
+#btn2{
+    background-color: rgba(207, 71, 71, 0.733);
+}
+body{
+    padding-left: 50px;
+    background-color: #fff9c4;
+}
+.one{
+    border: 1px solid black;
+    display: flex;
+}
+.heading{
+   text-align: center;
+}
+.parent{
+    border: 1px solid white;
+    background-color: rgb(218, 212, 215);
+}
